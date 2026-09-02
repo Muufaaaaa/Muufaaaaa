@@ -1,6 +1,6 @@
-<!-- Header Banner Neon City -->
+<!-- Header Banner Neon City (Fixed Overlap) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=150&section=header&text=W%20I%20L%20D%20A%20N%20_&fontSize=60&fontColor=00ffff&animation=twinkling&desc=Backend%20Dev%20//%20Cyber%20Explorer&descSize=20&descColor=ff00ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=200&section=header&text=W%20I%20L%20D%20A%20N%20_&fontSize=65&fontColor=00ffff&animation=twinkling&desc=Backend%20Dev%20%2F%2F%20Cyber%20Explorer&descSize=22&descColor=ff00ff&descAlignY=75" width="100%" />
 </div>
 
 <br/>
@@ -14,14 +14,14 @@
 
 <!-- Social Badges (Neon Style) -->
 <div align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF" /></a>
-  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
+  <a href="mailto:GANTI_EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF" /></a>
+  <a href="https://instagram.com/GANTI_USERNAME_IG_KAMU"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" /></a>
+  <a href="https://github.com/GANTI_USERNAME_GITHUB_KAMU"><img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
 </div>
 
 <br/>
 
-<!-- Tech Stack (Using Skill Icons like the TikTok reference but Dark Theme) -->
+<!-- Tech Stack -->
 <h3 align="center">⚡ <code>CORE_TECH_STACKS</code> ⚡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,14 +31,16 @@
 
 <br/>
 
-<!-- Stats Section (Custom Neon Theme) -->
+<!-- Stats Section -->
 <h3 align="center">📊 <code>SYS_METRICS</code> 📊</h3>
+
+<!-- PERHATIAN: Ganti 'GANTI_USERNAME_GITHUB_KAMU' dengan username GitHub aslimu! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_GITHUB_KAMU&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_GITHUB_KAMU&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
 </p>
 
-<!-- WakaTime Stats (To track coding hours just like the TikTok video) -->
+<!-- PERHATIAN: Ganti 'GANTI_USERNAME_WAKATIME_KAMU' dengan username WakaTime aslimu! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GANTI_USERNAME_WAKATIME_KAMU&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
 </p>
