@@ -36,11 +36,11 @@
 
 <!-- PERHATIAN: Ganti 'GANTI_USERNAME_GITHUB_KAMU' dengan username GitHub aslimu! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME_GITHUB_KAMU&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME_GITHUB_KAMU&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
 </p>
 
 <!-- PERHATIAN: Ganti 'GANTI_USERNAME_WAKATIME_KAMU' dengan username WakaTime aslimu! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GANTI_USERNAME_WAKATIME_KAMU&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
 </p>
