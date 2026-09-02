@@ -34,11 +34,11 @@
 <!-- Stats Section (Custom Neon Theme) -->
 <h3 align="center">📊 <code>SYS_METRICS</code> 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&icon_color=FF00FF&border_color=30363D&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="48%" />
 </p>
 
 <!-- WakaTime Stats (To track coding hours just like the TikTok video) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muufaaaaa&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=A9B2C3&border_color=30363D&hide_border=false" width="100%" />
 </p>
