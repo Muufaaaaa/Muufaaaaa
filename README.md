@@ -12,7 +12,7 @@
 - 💻 Focusing on **software engineering**, **database management**, and **backend development**.
 - ⚙️ Building practical projects like structured e-commerce systems and configuring advanced Discord bot automations.
 - 🎮 In my free time, I explore game server infrastructures (Minecraft/Roblox).
-- 📫 Reach out to me via [Email](mailto:danfaiz09@gmail.com) or [Instagram](https://instagram.com/muufa_5078).
+- 📫 Reach out to me via [Email](danfaiz09@gmail.com) or [Instagram](https://instagram.com/muufa_5078).
 
 ### 🛠️ Tech Stack
 <p>
