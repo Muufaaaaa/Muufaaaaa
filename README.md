@@ -10,7 +10,7 @@
 
 I'm an Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) with a strong passion for software engineering, especially in game development. I enjoy building practical projects and continuously expanding my technical skills through hands-on experience.
 
-* 🎓 **Education:** Informatics Engineering at UHAMKA (2026 - Present)
+* 🎓 **Education:** Informatics Engineering at UHAMKA (2024 - Present)
 * 💻 **Current Focus:** Software Engineering & Game Development
 * 🛠️ **Tech & Automation:** Web development, Discord bots, and backend systems
 * 🌐 **Community:** Server Administrator at **INFORMATICX**, a Discord community for Informatics students and technology enthusiasts
