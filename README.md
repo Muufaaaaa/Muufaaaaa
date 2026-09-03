@@ -38,21 +38,26 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 
 ---
 
-## 🚀 SKILL ICONS
+## 🚀 SKILLS & TECHNOLOGIES
 
-**Core Tech Stacks**
+**Core Technologies**
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,py,php,mysql" />
 </p>
 
-**Other Tech Stacks**
+**Web & Development**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,bash" />
 </p>
 
-**Tools**
+**Automation & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,discord,github,notion" />
+  <img src="https://skillicons.dev/icons?i=n8n,vscode,linux,github" />
+</p>
+
+**Community & Game Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,robloxstudio" />
 </p>
 
 ---
