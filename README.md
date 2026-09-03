@@ -8,11 +8,11 @@
 
 ---
 
-An Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) passionate about software development, automation, and technology driven projects.
+I’m an Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) with a strong interest in software development, automation, and building technology-driven solutions.
 
-I enjoy turning ideas into practical projects, from web applications and Discord bots to automation workflows and game related experiments. I also have experience building and managing Informaticx, a Discord community for Informatics students and technology enthusiasts, where I explore the intersection of technology, collaboration, and community building.
+I enjoy turning ideas into practical projects, ranging from web applications and Discord bots to automation workflows and game development experiments. I also built and manage Informaticx, a Discord community for Informatics students and technology enthusiasts, where I combine my interest in technology with community building, collaboration, and knowledge sharing.
 
-I’m a hands on learner who enjoys exploring new technologies, solving problems, and continuously improving through real world projects. My current journey revolves around becoming a versatile developer while discovering where I can make the greatest impact through technology.
+I’m a hands-on learner who enjoys experimenting with new technologies, solving problems, and learning through real-world projects. Rather than limiting myself to one area, I’m exploring different sides of software development to build a broader technical foundation and discover where I can create the most meaningful impact.
 
 <p>
   <a href="mailto:danfaiz09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
