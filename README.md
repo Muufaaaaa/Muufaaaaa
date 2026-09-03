@@ -10,7 +10,11 @@
 
 ---
 
-An Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) based in Bogor. I focus on creating reliable backend architectures, managing distributed systems like the SAFE Campus framework, and exploring game development logic. As a quick learner and adaptive thinker, I thrive in dynamic environments where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams and manage the Muufaverse community, contributing not only my technical skills but also a humble attitude that values input from every member.
+An Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA), with a strong interest in software development, technology, and community-driven projects. I enjoy building and experimenting with web applications, automation systems, Discord bots, and game-related projects while continuously expanding my knowledge in programming, databases, and distributed systems.
+
+Beyond coding, I have experience building and managing Discord communities, including Informaticx, a community server designed as a space for Informatics students and technology enthusiasts to connect, collaborate, and share knowledge. This experience has strengthened my skills in community management, server organization, and creating digital spaces that encourage collaboration.
+
+I learn best by turning ideas into practical projects, exploring new technologies, and solving problems through hands-on experience. I value collaboration, adaptability, and continuous learning, believing that good ideas can come from anyone. Currently, I’m focused on growing as a versatile developer while discovering the areas of technology where I can create the most meaningful impact.
 
 <p>
   <a href="mailto:danfaiz09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
