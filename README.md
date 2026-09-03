@@ -18,14 +18,21 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
   <a href="mailto:danfaiz09@gmail.com">
     <img src="https://img.shields.io/badge/-danfaiz09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/username-discord" target="_blank">
-    <img src="https://img.shields.io/badge/-Muufaaaaa-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="https://instagram.com/muufa_5078" target="_blank">
     <img src="https://img.shields.io/badge/-@muufa__5078-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/wildanfaiz" target="_blank">
-    <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tiktok.com/@muhammadwildonee" target="_blank">
+    <img src="https://img.shields.io/badge/-@username__tiktok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://discord.gg/3rQD3cMZDR target="_blank">
+    <img src="https://img.shields.io/badge/-Muufaverse-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Muufaverse" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&label=Profile+Views&style=flat&color=0BFCF4" alt="Profile Views" />
+  <a href="https://github.com/Muufaaaaa?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat&logo=github&color=424242&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
 
