@@ -64,12 +64,20 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 
 ## 🏆 GITHUB TROPHIES
 
-[![Muufaaaaa Trophies](https://github-profile-trophy.vercel.app/?username=Muufaaaaa&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muufaaaaa&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Muufaaaaa Trophies" />
+  </a>
+</p>
 
 ---
 
 ## 📊 STATISTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=synthwave&hide_border=false)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=synthwave&hide_border=false" alt="GitHub Stats" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=synthwave&hide_border=false)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=synthwave&hide_border=false" alt="Most Used Languages" />
+</p>
