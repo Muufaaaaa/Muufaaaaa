@@ -65,7 +65,6 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=Muufaaaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=10"
       alt="Muufaaaaa GitHub Trophies"
