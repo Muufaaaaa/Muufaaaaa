@@ -62,19 +62,35 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 
 ---
 
+<!--
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Muufaaaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=10"
-      alt="Muufaaaaa GitHub Trophies"
-    />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Muufaaaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=10"
+    alt="Muufaaaaa GitHub Trophies"
+  />
 </p>
 
 ---
+-->
 
 ## 📊 GITHUB STATISTICS
+
+<!--
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=dark&hide_border=true&title_color=0BFCF4&icon_color=66FCF1&text_color=C9D1D9&bg_color=0B0C10"
+    alt="Muufaaaaa GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=dark&hide_border=true&title_color=0BFCF4&text_color=C9D1D9&bg_color=0B0C10"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muufaaaaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
