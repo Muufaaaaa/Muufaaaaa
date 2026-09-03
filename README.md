@@ -96,8 +96,10 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muufaaaaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muufaaaaa&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats graph" />
 </p>
+-->
 
 ---
