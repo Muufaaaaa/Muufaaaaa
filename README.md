@@ -45,19 +45,24 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
   <img src="https://skillicons.dev/icons?i=cpp,py,php,mysql" />
 </p>
 
-**Web & Development**
+**Web Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,git" />
 </p>
 
-**Automation & Tools**
+**Backend & Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+**Development Tools & Environment**
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,linux,github" />
 </p>
 
 **Community & Game Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=discord,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=discord,notion,robloxstudio" />
 </p>
 
 ---
