@@ -52,7 +52,7 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 
 **Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,docker,github" />
 </p>
 
 **Community & Game Development**
