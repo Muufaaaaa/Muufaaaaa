@@ -10,10 +10,10 @@
 
 I'm an Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) with a strong passion for software engineering, especially in game development. I enjoy building practical projects and continuously expanding my technical skills through hands-on experience.
 
-* 🎓 **Education:** Informatics Engineering at UHAMKA
+* 🎓 **Education:** Informatics Engineering at UHAMKA (2026 - Present)
 * 💻 **Current Focus:** Software Engineering & Game Development
 * 🛠️ **Tech & Automation:** Web development, Discord bots, and backend systems
-* 🌐 **Community:** Founder & Manager of **Informaticx**, a collaborative Discord community for tech enthusiasts
+* 🌐 **Community:** Server Administrator at **INFORMATICX**, a Discord community for Informatics students and technology enthusiasts
 * 📫 **Reach me at:** danfaiz09@gmail.com
   
 <p>
