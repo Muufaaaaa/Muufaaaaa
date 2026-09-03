@@ -1,31 +1,52 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Muufaaaaa" target="_blank">Wildan Faiz</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Muufaaaaa" target="_blank">Muhammad Wildan Faiz Althafah</a> 👋</h1>
+
+<h3 align="center">Software Engineering & Game Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat-square&logo=github" alt="Followers" />
-</p>
-
-<p align="center">
-  <em>An Informatics Engineering student and software development enthusiast focusing on web engineering and backend systems.</em>
+  <em>An Informatics Engineering student focused on software engineering, backend systems, and game development. Passionate about building interactive applications, server logic, and immersive digital experiences.</em>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Skill Icons
+
+### Core Tech Stacks
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,php,mysql,git" />
 </p>
 
-### 📊 GitHub Stats
+### Tools & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,discord,linux,github,notion" />
+</p>
+
+---
+
+## 📊 Statistics
+
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muufaaaaa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muufaaaaa&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:email-anda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/username-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/username-discord" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
 </p>
