@@ -32,7 +32,7 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
   </a>
   <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&label=Profile+Views&style=flat&color=0BFCF4" alt="Profile Views" />
   <a href="https://github.com/Muufaaaaa?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat&logo=github&color=424242&logoColor=white" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Github+Followers&style=flat&logo=github&color=424242&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
 
