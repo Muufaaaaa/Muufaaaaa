@@ -1,17 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:39FF14&height=250&section=header&text=Muhammad%20Wildan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=39FF14&desc=System.out.println(%22Initializing_Cyber_Space...%22);&descAlignY=55&descAlign=50" alt="Cyberpunk Header" />
+<h1 align="center">Hi there, I'm <a href="https://github.com/username-anda" target="_blank">Nama Anda</a> 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Informatics+Engineering+Student;Software+%26+Web+Developer;Server+%26+Game+Development+Enthusiast;AI+%2F+CNN+Researcher" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username-anda&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/username-anda?label=Followers&style=flat-square&logo=github" alt="Followers" />
+</p>
 
-<details>
-<summary><b>🟢 <code>root@muufaverse:~# ./execute_profile.sh</code> (Klik untuk otorisasi)</b></summary>
+<p align="center">
+  <em>An Informatics Engineering student and software development enthusiast focusing on web engineering and backend systems.</em>
+</p>
 
-```text
-[+] Location : Bogor, Indonesia
-[+] Academic : Teknik Informatika @ UHAMKA
-[+] Focus    : Software/Web Dev, Distributed Systems, AI Architecture
-[+] Projects : E-Commerce System, SAFE Campus Framework
-[+] Network  : Muufaverse Admin (Discord Bot Configs), Minecraft, Roblox
+---
+
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=username-anda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-anda&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-anda&theme=tokyonight&hide_border=true" />
+</p>
