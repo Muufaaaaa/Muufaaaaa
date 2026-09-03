@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,100:0BFCF4&height=250&section=header&text=Muhammad%20Wildan%20Faiz%20Althafah&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer&descAlignY=55&descSize=18&fontColor=66FCF1" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,100:0BFCF4&height=250&section=header&text=Muhammad%20Wildan%20Faiz%20Althafah&fontSize=38&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descSize=18&fontColor=66FCF1" width="100%" /></div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0BFCF4&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Software+%26+Web+Development+Enthusiast;Automation+%26+Discord+Bot+Builder;Game+Development+Explorer;Creator+of+Informaticx+Discord+Server" alt="Typing SVG" />  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0BFCF4&center=true&vCenter=true&width=700&lines=Software+%26+Web+Development;Automation+%26+Discord+Bots;Game+Development+Explorer;Building+Communities+with+Informaticx" alt="Typing SVG" /> </a>
 </p>
 
 ---
