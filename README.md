@@ -47,12 +47,12 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
 
 **Web & Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
 **Automation & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,vscode,linux,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,github" />
 </p>
 
 **Community & Game Development**
