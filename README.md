@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/username-anda" target="_blank">Nama Anda</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Muufaaaaa" target="_blank">Muhammad Wildan Faiz Althafah</a> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username-anda&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/username-anda?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat-square&logo=github" alt="Followers" />
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=username-anda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-anda&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Muufaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muufaaaaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-anda&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muufaaaaa&theme=tokyonight&hide_border=true" />
 </p>
