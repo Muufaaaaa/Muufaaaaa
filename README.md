@@ -25,7 +25,7 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
     <img src="https://img.shields.io/badge/-@muufa__5078-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/wildanfaiz" target="_blank">
-    <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
 
