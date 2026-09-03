@@ -15,11 +15,18 @@ I enjoy turning ideas into practical projects, ranging from web applications and
 I’m a hands on learner who enjoys experimenting with new technologies, solving problems, and learning through real world projects. Rather than limiting myself to one area, I’m exploring different sides of software development to build a broader technical foundation and discover where I can create the most meaningful impact.
 
 <p>
-  <a href="mailto:danfaiz09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/muufa_5078" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/wildanfaiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&style=flat-square&color=0BFCF4" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Muufaaaaa?label=Followers&style=flat-square&logo=github&color=333" alt="GitHub Followers" />
+  <a href="mailto:danfaiz09@gmail.com">
+    <img src="https://img.shields.io/badge/-danfaiz09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/username-discord" target="_blank">
+    <img src="https://img.shields.io/badge/-Muufaaaaa-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/muufa_5078" target="_blank">
+    <img src="https://img.shields.io/badge/-@muufa__5078-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/wildanfaiz" target="_blank">
+    <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
