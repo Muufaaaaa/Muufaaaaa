@@ -25,7 +25,7 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
     <img src="https://img.shields.io/badge/-wildanfaiz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tiktok.com/@muhammadwildonee" target="_blank">
-    <img src="https://img.shields.io/badge/-@username__tiktok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/-@muhammadwildonee-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.gg/3rQD3cMZDR target="_blank">
     <img src="https://img.shields.io/badge/-Muufaverse-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Muufaverse" />
