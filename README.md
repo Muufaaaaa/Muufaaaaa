@@ -50,14 +50,9 @@ I’m a hands on learner who enjoys experimenting with new technologies, solving
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,git" />
 </p>
 
-**Backend & Development**
+**Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-**Development Tools & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,github" />
 </p>
 
 **Community & Game Development**
