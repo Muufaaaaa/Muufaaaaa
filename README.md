@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Muufaaaaa" target="_blank">Muhammad Wildan Faiz Althafah</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Muufaaaaa" target="_blank">Wildan Faiz</a> 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muufaaaaa&style=flat-square&color=blue" alt="Profile Views" />
