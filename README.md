@@ -10,11 +10,11 @@
 
 ---
 
-An Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA), with a strong interest in software development, technology, and community-driven projects. I enjoy building and experimenting with web applications, automation systems, Discord bots, and game-related projects while continuously expanding my knowledge in programming, databases, and distributed systems.
+An Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) passionate about software development, automation, and technology-driven projects.
 
-Beyond coding, I have experience building and managing Discord communities, including Informaticx, a community server designed as a space for Informatics students and technology enthusiasts to connect, collaborate, and share knowledge. This experience has strengthened my skills in community management, server organization, and creating digital spaces that encourage collaboration.
+I enjoy turning ideas into practical projects—from web applications and Discord bots to automation workflows and game-related experiments. I also have experience building and managing Informaticx, a Discord community for Informatics students and technology enthusiasts, where I explore the intersection of technology, collaboration, and community building.
 
-I learn best by turning ideas into practical projects, exploring new technologies, and solving problems through hands-on experience. I value collaboration, adaptability, and continuous learning, believing that good ideas can come from anyone. Currently, I’m focused on growing as a versatile developer while discovering the areas of technology where I can create the most meaningful impact.
+I’m a hands-on learner who enjoys exploring new technologies, solving problems, and continuously improving through real-world projects. My current journey revolves around becoming a versatile developer while discovering where I can make the greatest impact through technology.
 
 <p>
   <a href="mailto:danfaiz09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
