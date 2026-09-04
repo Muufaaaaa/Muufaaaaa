@@ -8,14 +8,15 @@
 
 ---
 
-I'm an Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) with a strong passion for software engineering, especially in game development. I enjoy building practical projects and continuously expanding my technical skills through hands-on experience.
+I’m an Informatics Engineering student at Universitas Muhammadiyah Prof. Dr. HAMKA (UHAMKA) who enjoys building practical software projects and exploring different areas of technology. My interests span software and web development, Discord bots, backend systems, and game development, with a focus on continuously improving through hands-on experience.
 
 * 🎓 **Education:** Informatics Engineering at UHAMKA (2024 - Present)
-* 💻 **Current Focus:** Software Engineering & Game Development
-* 🛠️ **Tech & Automation:** Web development, Discord bots, and backend systems
-* 🌐 **Community:** Server Administrator at **INFORMATICX**, a Discord community for Informatics students and technology enthusiasts
-* 📫 **Reach me at:** danfaiz09@gmail.com
-  
+* 💻 **Current Focus:** Software & Web Development
+* 🎮 **Exploring:** Game Development & Interactive Experiences
+* 🛠️ **Projects:** Web applications, Discord bots, backend systems, and automation workflows
+* 🌐 **Community:** Creator & Administrator of **INFORMATICX**, a Discord community for Informatics students and technology enthusiasts
+* 📫 **Reach me at:** [danfaiz09@gmail.com](mailto:danfaiz09@gmail.com)
+
 <p>
   <a href="mailto:danfaiz09@gmail.com">
     <img src="https://img.shields.io/badge/-danfaiz09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
